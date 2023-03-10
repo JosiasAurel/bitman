@@ -3,7 +3,7 @@
 This is a CLI that helps you convert values between decimal, hexadecimal and binary.
 Written in C, because I wanted to revise how to do the conversions and C is the best. Sorry Rust (Kidding of course).
 
-> This is not tested and could break.
+> This is not throughly tested and could break.
 
 ## How to use
 First of all you can download a pre-built binary from the releases page. This will be a static binary.
